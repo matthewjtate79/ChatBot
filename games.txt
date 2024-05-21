@@ -1,0 +1,6 @@
+pov(sekiro,thirdperson). genre(sekiro,soulslike). setting(sekiro,historical). platform(sekiro,xbox). platform(sekiro,playstation). platform(sekiro,pc). num_players(sekiro,singleplayer). price(sekiro,expensive).
+pov(callofdutymw3,firstperson). genre(callofdutymw3,shooter). setting(callofdutymw3,warzone). platform(callofdutymw3,xbox). platform(callofdutymw3,playstation). platform(callofdutymw3,pc). num_players(callofdutymw3,singleplayer). num_players(callofdutymw3,multiplayer). price(callofdutymw3,expensive).
+pov(leagueoflegends,birdview). genre(leagueoflegends,moba). setting(leagueoflegends,fantasy). platform(leagueoflegends,pc). num_players(leagueoflegends,multiplayer). price(leagueoflegends,cheap).
+pov(eldenring,thirdperson). genre(eldenring,soulslike). setting(eldenring,fantasy). platform(eldenring,xbox). platform(eldenring,playstation). platform(eldenring,pc). num_players(eldenring,singleplayer). num_players(eldenring,multiplayer). price(eldenring,expensive).
+
+
